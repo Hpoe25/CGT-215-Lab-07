@@ -125,7 +125,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Lab_physics.cpp" />
+    <ClCompile Include="CGT-215-Lab-07-poeh.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
